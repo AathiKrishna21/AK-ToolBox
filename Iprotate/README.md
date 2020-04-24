@@ -1,4 +1,4 @@
-## Iprorate
+## Ip-rorate
 This is python script that is used to request new ip to the tor. Through this you can change your ip adderes which you can use this
 module while brute forcing.
 
@@ -62,4 +62,4 @@ IProtator class takes five positional arguments and tow optional keyword argumen
     RunAsDaemon 1
     CookieAuthentication 0
 
-copy the above configuration and paste it in /etc/tor/torrc
+copy the above configuration and paste it in torrc which is inside the tor directory in the installed location
